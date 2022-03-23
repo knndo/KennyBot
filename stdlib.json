@@ -1,0 +1,79 @@
+{
+  "name": "knndo/base-bot",
+  "timeout": 10000,
+  "connector": false,
+  "events": {
+    "functions/events/discord/e_01.js": {
+      "name": "discord.command",
+      "subtype": {
+        "command": "e1"
+      }
+    },
+    "functions/events/discord/e_05.js": {
+      "name": "discord.command",
+      "subtype": {
+        "command": "e5"
+      }
+    },
+    "functions/events/discord/e_11.js": {
+      "name": "discord.command",
+      "subtype": {
+        "command": "e11"
+      }
+    },
+    "functions/events/discord/e_17.js": {
+      "name": "discord.command",
+      "subtype": {
+        "command": "e17"
+      }
+    },
+    "functions/events/discord/m_01.js": {
+      "name": "discord.command",
+      "subtype": {
+        "command": "m1"
+      }
+    },
+    "functions/events/discord/m_05.js": {
+      "name": "discord.command",
+      "subtype": {
+        "command": "m5"
+      }
+    },
+    "functions/events/discord/m_17.js": {
+      "name": "discord.command",
+      "subtype": {
+        "command": "m17"
+      }
+    },
+    "functions/events/discord/m_11.js": {
+      "name": "discord.command",
+      "subtype": {
+        "command": "m11"
+      }
+    },
+    "functions/events/discord/l_01.js": {
+      "name": "discord.command",
+      "subtype": {
+        "command": "l1"
+      }
+    },
+    "functions/events/discord/l_11.js": {
+      "name": "discord.command",
+      "subtype": {
+        "command": "l11"
+      }
+    },
+    "functions/events/discord/l_05.js": {
+      "name": "discord.command",
+      "subtype": {
+        "command": "l5"
+      }
+    },
+    "functions/events/discord/l_17.js": {
+      "name": "discord.command",
+      "subtype": {
+        "command": "l17"
+      }
+    }
+  }
+}

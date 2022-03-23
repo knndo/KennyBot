@@ -1,0 +1,32 @@
+module.exports = () => {
+  return [
+            {'nome': 'Poção de cura maior', 'inicio': 1, 'fim': 15},
+            {'nome': 'Pergaminho de 4º nível', 'inicio': 16, 'fim': 22},
+            {'nome': 'Munição +2', 'inicio': 23, 'fim': 27},
+            {'nome': 'Poção de clarividência', 'inicio': 28, 'fim': 33},
+            {'nome': 'Poção de encolher', 'inicio': 34, 'fim': 37},
+            {'nome': 'Poção de forma gasosa', 'inicio': 38, 'fim': 43},
+            {'nome': 'Poção de força do gigante do gelo', 'inicio': 44, 'fim': 47},
+            {'nome': 'Poção de força do gigante de pedra', 'inicio': 48, 'fim': 52},
+            {'nome': 'Poção do heroísmo', 'inicio': 53, 'fim': 57},
+            {'nome': 'Poção de invulnerabilidade', 'inicio': 58, 'fim': 62},
+            {'nome': 'Poção de ler mentes', 'inicio': 63, 'fim': 67},
+            {'nome': 'Pergaminho de 5º nível', 'inicio': 68, 'fim': 72},
+            {'nome': 'Elixir de saúde', 'inicio': 73, 'fim': 75},
+            {'nome': 'Óleo de forma etérea', 'inicio': 76, 'fim': 78},
+            {'nome': 'Poção de força do gigante do fogo', 'inicio': 79, 'fim': 81},
+            {'nome': 'Pena de Quaal', 'inicio': 82, 'fim': 84},
+            {'nome': 'Pergaminho de proteção', 'inicio': 85, 'fim': 87},
+            {'nome': 'Saco de feijões', 'inicio': 88, 'fim': 89},
+            {'nome': 'Contas de força', 'inicio': 90, 'fim': 91},
+            {'nome': 'Carrilhão de abertura', 'inicio': 92, 'fim': 92},
+            {'nome': 'Decantador de água infinita', 'inicio': 93, 'fim': 93},
+            {'nome': 'Olhos de visão momentânea', 'inicio': 94, 'fim': 94},
+            {'nome': 'Barco dobrável', 'inicio': 95, 'fim': 95},
+            {'nome': 'Sacola prestativa de Heward', 'inicio': 96, 'fim': 96},
+            {'nome': 'Ferraduras de velocidade', 'inicio': 97, 'fim': 97},
+            {'nome': 'Colar de bolas de fogo', 'inicio': 98, 'fim': 98},
+            {'nome': 'Periapto de saúde', 'inicio': 99, 'fim': 99},
+            {'nome': 'Pedras de mensagem', 'inicio': 100, 'fim': 100}
+          ]
+}

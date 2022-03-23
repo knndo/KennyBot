@@ -1,0 +1,11 @@
+{
+  "name": "base-bot",
+  "author": "Jacob Lee",
+  "publish": false,
+  "dependencies": {
+    "lib": "latest",
+    "functions": "^1.0.9",
+    "events": "^3.3.0",
+    "discord.js": "^13.6.0"
+  }
+}
